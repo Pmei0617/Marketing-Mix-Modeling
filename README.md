@@ -32,3 +32,6 @@ The dataset also includes information about the prevalence of brand C’s bonus 
 **fsi_comp**: Brand E or R FSIs (coupon value * circulation) <br>
 **itemstor**: Number of Brand C items sold per store – rolling 13 week average <br>
 **walmart**: Wal*Mart share
+
+
+Files needed: MMM regression dataset.csv

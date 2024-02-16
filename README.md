@@ -1,6 +1,6 @@
 # Marketing-Mix-Modeling
 
-**Published on RPubs**
+**Published on RPubs** <br>
 Link to Project: https://rpubs.com/Petermei0617/MMM
 
 This project was developed using data supplied by MMA, a consulting firm that specializes in marketing mix models. The purpose of this project is to understand how sales for Brand C relate to factors in the marketplace (own marketing efforts, others’ marketing efforts, environmental factors). This information could then be used to (i) assess the relative impact of different elements of the marketing mix and (ii) volume forecasting.

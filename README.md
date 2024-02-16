@@ -33,5 +33,6 @@ The dataset also includes information about the prevalence of brand C’s bonus 
 **itemstor**: Number of Brand C items sold per store – rolling 13 week average <br>
 **walmart**: Wal*Mart share
 
+<br>
 
-Files needed: MMM regression dataset.csv
+Files needed: ***MMM regression dataset.csv***

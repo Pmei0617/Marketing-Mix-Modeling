@@ -2,6 +2,9 @@
 
 **Published on RPubs** <br>
 Link to Project: https://rpubs.com/Petermei0617/MMM
+OR
+Access the Rmarkdown file (Files needed: ***MMM regression dataset.csv***)
+
 
 This project was developed using data supplied by MMA, a consulting firm that specializes in marketing mix models. The purpose of this project is to understand how sales for Brand C relate to factors in the marketplace (own marketing efforts, others’ marketing efforts, environmental factors). This information could then be used to (i) assess the relative impact of different elements of the marketing mix and (ii) volume forecasting.
 
@@ -36,6 +39,3 @@ The dataset also includes information about the prevalence of brand C’s bonus 
 **itemstor**: Number of Brand C items sold per store – rolling 13 week average <br>
 **walmart**: Wal*Mart share
 
-<br>
-
-Files needed: ***MMM regression dataset.csv***

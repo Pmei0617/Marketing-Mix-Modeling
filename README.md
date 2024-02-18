@@ -7,6 +7,8 @@ Link to Project: https://rpubs.com/Petermei0617/MMM <br>
 Access the Rmarkdown file (Files needed: ***MMM regression dataset.csv***) <br>
 
 
+### Project overview:
+
 This project was developed using data supplied by MMA, a consulting firm that specializes in marketing mix models. The purpose of this project is to understand how sales for Brand C relate to factors in the marketplace (own marketing efforts, others’ marketing efforts, environmental factors). This information could then be used to (i) assess the relative impact of different elements of the marketing mix and (ii) volume forecasting.
 
 This is an integrated dataset with 179 weeks (Feb 2000 – Jul 2003) of observations for a variety of marketing mix variables. Brand C is one of the big players in a fairly commoditized product category. Brands R, E, P and U are some of the other brands in the category. Brand C and U are owned by the same company. Some of the measures in the dataset should look familiar, while others may be new. The key dependent variable in the dataset is equivalent units sales volume. You have selling price information for brands C, E, and P. The variable disacv_c not only measures how deep of a discount was offered for brand C, but also how prevalent that discount was across sales outlets.

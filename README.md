@@ -3,7 +3,7 @@
 **Published on RPubs** <br>
 
 Link to Project: https://rpubs.com/Petermei0617/MMM <br>
-OR <br>
+**OR** <br>
 Access the Rmarkdown file (Files needed: ***MMM regression dataset.csv***) <br>
 
 
